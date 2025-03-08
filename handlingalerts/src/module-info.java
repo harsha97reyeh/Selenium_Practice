@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author santh
- *
- */
-module handlingalerts {
-}
